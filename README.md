@@ -38,6 +38,9 @@
 
 * Having a very polished UI
 * Having a great App Idea that could be a real product
+* user can like the suggested playlist
+* User can comment on the suggested playlist
+* User can see the day the playlist was selected
  
 
 ### 2. Screen Archetypes
@@ -75,7 +78,16 @@
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+#### User
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | author        | Pointer to User| the current user |
+   | profileImage         | File     | profile image that user uses |
+   | commentsCount | Number   | number of comments that has been posted to the playlist|
+   | likesCount    | Number   | number of likes for the playlist |
+   | createdAt     | DateTime | date when playlist is selected (default field) |
+
 ### Models
 [Add table of models]
 ### Networking
