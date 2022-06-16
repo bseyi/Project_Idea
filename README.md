@@ -1,5 +1,5 @@
 
-# APP_NAME_HERE(TBD)
+# MONGS
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -9,16 +9,15 @@
 
 ## Overview
 ### App Ideas
- 1) An app that cretes a playlist of songs depending on the mood of a person
+ - An app that cretes a playlist of songs depending on the mood of a person.
 
 ### App Evaluation
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
-
+- **Category:** Music
+- **Mobile:** This program would be primarily designed for mobile devices, but it may also be used on a PC. The functionality would not be restricted to mobile devices, although the mobile version may offer additional capabilities.
+- **Story:** Analyzes user mood and recommends a playlist depending on the mood of the user.
+- **Market:** Any music lover can use this app.
+- **Habit:** This app could be used as often or unoften as the user wanted depending on how their mood at any time, and what exactly they're looking for.
+- **Scope:** First we would start with recommending playlist based in mood, then, in order to extend its appeal, it could evolve into a music sharing application. Use with Spotify, Apple Music, or other music streaming apps has a lot of promise.
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
@@ -70,7 +69,6 @@
    * ...
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://github.com/bseyi/Project_Idea/blob/main/IMG_3774.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
