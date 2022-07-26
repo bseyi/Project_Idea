@@ -57,6 +57,7 @@
 <img src="https://github.com/bseyi/Project_Idea/blob/main/IMG_3774.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="https://github.com/bseyi/Project_Idea/blob/main/Screen%20Shot%202022-06-20%20at%203.00.29%20PM.png" width=600>
 
 
 ### [BONUS] Interactive Prototype
