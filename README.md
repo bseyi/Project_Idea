@@ -24,7 +24,7 @@
 
 ** Completed Required Stories**
 
-* The app interacts with a database (e.g. Parse)
+* The app interacts with Parse database.
 * The app integrates with Google maps API for showing users current location, and showing the closest museums and exhibition centres to their location.
 * Filtering posts by distance to user
 * Using the Tensor Flow image labelling API, users can filter posts matching their interests.
