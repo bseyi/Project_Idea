@@ -38,6 +38,8 @@
 * Create a user interface for cropping and rotating the photos of the artwork.
 * Created a user interface for users to view all posts on the maps and query the posts by the distance from their current location.
 * Combine query by distance and filter by label search on the map
+* Users can search for posts based on the labels
+* Profile pictures for users.
 
 **Completed Stretch Stories**
 
@@ -60,22 +62,3 @@
 <img src="https://github.com/bseyi/Project_Idea/blob/main/Screen%20Shot%202022-06-20%20at%203.00.29%20PM.png" width=600>
 
 
-### [BONUS] Interactive Prototype
-
-## Schema 
-#### User
-
-   | Property      | Type     | Description |
-   | ------------- | -------- | ------------|
-   | author        | Pointer to User| the current user |
-   | profileImage         | File     | profile image that user uses |
-   | commentsCount | Number   | number of comments that has been posted to the playlist|
-   | likesCount    | Number   | number of likes for the playlist |
-   | createdAt     | DateTime | date when playlist is selected (default field) |
-
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
