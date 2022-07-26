@@ -9,69 +9,55 @@
 
 ## Overview
 ### App Ideas
- - An app that cretes a playlist of songs depending on the mood of a person.
+ - An app that creates a platform for young and upcoming artists around the world to showcase their artworks.
 
 ### App Evaluation
-- **Category:** Music
-- **Mobile:** This program would be primarily designed for mobile devices, but it may also be used on a PC. The functionality would not be restricted to mobile devices, although the mobile version may offer additional capabilities.
-- **Story:** Analyzes user mood and recommends a playlist depending on the mood of the user.
-- **Market:** Any music lover can use this app.
-- **Habit:** This app could be used as often or unoften as the user wanted depending on how their mood at any time, and what exactly they're looking for.
-- **Scope:** First we would start with recommending playlist based in mood, then, in order to extend its appeal, it could evolve into a music sharing application. Use with Spotify, Apple Music, or other music streaming apps has a lot of promise.
+- **Category:** Exhibition
+- **Mobile:** This app would be primarily designed for mobile devices, but it may also be used on a PC. The functionality would not be restricted to mobile devices, although the mobile version may offer additional capabilities.
+- **Story:**  Creates a platform for young and upcoming artists around the world to showcase their artworks.
+- **Market:** Any aRT lover can use this app.
+- **Habit:** This app could be used as often as the user wants depending on their inspiration at any time, and what exactly they're looking for.
+
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
+** Completed Required Stories**
 
 * The app interacts with a database (e.g. Parse)
-* The app integrates with at least one SDK or API
+* The app integrates with Google maps API for showing users current location, and showing the closest museums and exhibition centres to their location.
+* Filtering posts by distance to user
+* Using the Tensor Flow image labelling API, users can filter posts matching their interests.
 * The user can log in/log out of the app
 * The user can sign up as a new user
-* The app has multiple views
-* The app uses at least one gesture (e.g. double tap to like, e.g. pinch to scale) 
-* The app incorporates at least one external library to add visual polish
-* The app uses at least one animation (e.g. fade in/out, e.g. animating a view growing and shrinking
+* The app will have a bottom navigation bar holding the home, compose, location, chat, and profile fragment.
+* The app will give the user options to either upload a photo of the artwork or take a new photo of the artwork.
+* The details activity of the posts will showcase the art with an animation, and date created.
+* The profile fragment will showcase the information entered by the user at signup and all posts made by the current logged in user.
+* Calendar external library for the available dates of the artwork
+* Create a user interface for cropping and rotating the photos of the artwork.
+* Created a user interface for users to view all posts on the maps and query the posts by the distance from their current location.
+* Combine query by distance and filter by label search on the map
 
-**Optional Nice-to-have Stories**
+**Completed Stretch Stories**
 
 * Having a very polished UI
-* Having a great App Idea that could be a real product
-* user can like the suggested playlist
-* User can comment on the suggested playlist
-* User can see the day the playlist was selected
- 
+* Users can see location of other users on the map
+* Users can comment and like an artwork post
+* Users can see the comments of other users
+* Users can query posts by distance, and time. 
+* A timestamp of when the post was created is available.
+* Added a group chat feature for all users
+* Delete post feature
+* Delete chat feature
+* Drawing canvas feature, where users can draw on the screen and also save their drawing to their phone storage.
 
-### 2. Screen Archetypes
-
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
-
-### 3. Navigation
-
-**Tab Navigation** (Tab to Screen)
-
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
-
-**Flow Navigation** (Screen to Screen)
-
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
 
 ## Wireframes
 <img src="https://github.com/bseyi/Project_Idea/blob/main/IMG_3774.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+
 
 ### [BONUS] Interactive Prototype
 
